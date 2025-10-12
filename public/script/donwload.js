@@ -1,4 +1,4 @@
-import { gerarCVHtml } from './templates/template1.js'
+import { gerarCVHtml } from '/src/templates/template1.js'
 
 
 const dados = JSON.parse(localStorage.getItem('dadosCV')) || {};
