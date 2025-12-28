@@ -1,6 +1,5 @@
-# TRABALHO DE CONCLUSÃO DE CURSO  
-## PROJETO TÉCNICO  
+![logo etec são mateus](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/95/2024/03/etec-sao_mateus.png)
 
-### Impulsionando o Futuro: Plataforma Digital de Orientação Profissional e Inclusão para a Juventude
+<h1 align="center">💻 Projeto de TCC</h1>
 
-
+<p align="center">Aplicação web, para orientação profissional e inclusão da juventude</p>
